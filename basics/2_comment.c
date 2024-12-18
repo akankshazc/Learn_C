@@ -11,6 +11,6 @@ int main(void)
     multi-line comment
     */
 
-    printf("Welcome to Learning C");
+    printf("Welcome to Learning C"); // End of line comment
     return 0;
 }
